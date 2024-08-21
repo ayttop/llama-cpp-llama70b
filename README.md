@@ -25,6 +25,8 @@ pip install -r requirements.txt
 
 
 for dialogue
+
+
 !./llama-cli -m /content/Meta-Llama-3.1-70B-Instruct-IQ1_M.gguf -p "You are a helpful assistant" -cnv -c 128
 
 
