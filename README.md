@@ -11,6 +11,7 @@ https://colab.research.google.com/drive/1VaL30PmB2DS6oAq6WI_IQvjNRKFR3GZ0?authus
 llama-b3472-bin-win-openblas-x64
 
 !git clone https://github.com/ggerganov/llama.cpp.git
+
 %cd llama.cpp
 
 !make
